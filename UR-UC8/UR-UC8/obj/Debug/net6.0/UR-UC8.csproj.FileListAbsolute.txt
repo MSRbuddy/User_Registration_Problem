@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\UserRegistration\UR-UC8\UR-UC8\bin\Debug\net6.0\UR-UC8.exe
+C:\Users\USER\source\BL\UserRegistration\UR-UC8\UR-UC8\bin\Debug\net6.0\UR-UC8.deps.json
+C:\Users\USER\source\BL\UserRegistration\UR-UC8\UR-UC8\bin\Debug\net6.0\UR-UC8.runtimeconfig.json
+C:\Users\USER\source\BL\UserRegistration\UR-UC8\UR-UC8\bin\Debug\net6.0\UR-UC8.dll
+C:\Users\USER\source\BL\UserRegistration\UR-UC8\UR-UC8\bin\Debug\net6.0\UR-UC8.pdb
+C:\Users\USER\source\BL\UserRegistration\UR-UC8\UR-UC8\obj\Debug\net6.0\UR-UC8.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\UserRegistration\UR-UC8\UR-UC8\obj\Debug\net6.0\UR-UC8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\UserRegistration\UR-UC8\UR-UC8\obj\Debug\net6.0\UR-UC8.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\UserRegistration\UR-UC8\UR-UC8\obj\Debug\net6.0\UR-UC8.AssemblyInfo.cs
+C:\Users\USER\source\BL\UserRegistration\UR-UC8\UR-UC8\obj\Debug\net6.0\UR-UC8.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\UserRegistration\UR-UC8\UR-UC8\obj\Debug\net6.0\UR-UC8.dll
+C:\Users\USER\source\BL\UserRegistration\UR-UC8\UR-UC8\obj\Debug\net6.0\refint\UR-UC8.dll
+C:\Users\USER\source\BL\UserRegistration\UR-UC8\UR-UC8\obj\Debug\net6.0\UR-UC8.pdb
+C:\Users\USER\source\BL\UserRegistration\UR-UC8\UR-UC8\obj\Debug\net6.0\UR-UC8.genruntimeconfig.cache
+C:\Users\USER\source\BL\UserRegistration\UR-UC8\UR-UC8\obj\Debug\net6.0\ref\UR-UC8.dll
