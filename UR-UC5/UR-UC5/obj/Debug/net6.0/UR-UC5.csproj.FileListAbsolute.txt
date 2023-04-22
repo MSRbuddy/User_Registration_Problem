@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\UserRegistration\UR-UC5\UR-UC5\bin\Debug\net6.0\UR-UC5.exe
+C:\Users\USER\source\BL\UserRegistration\UR-UC5\UR-UC5\bin\Debug\net6.0\UR-UC5.deps.json
+C:\Users\USER\source\BL\UserRegistration\UR-UC5\UR-UC5\bin\Debug\net6.0\UR-UC5.runtimeconfig.json
+C:\Users\USER\source\BL\UserRegistration\UR-UC5\UR-UC5\bin\Debug\net6.0\UR-UC5.dll
+C:\Users\USER\source\BL\UserRegistration\UR-UC5\UR-UC5\bin\Debug\net6.0\UR-UC5.pdb
+C:\Users\USER\source\BL\UserRegistration\UR-UC5\UR-UC5\obj\Debug\net6.0\UR-UC5.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\UserRegistration\UR-UC5\UR-UC5\obj\Debug\net6.0\UR-UC5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\UserRegistration\UR-UC5\UR-UC5\obj\Debug\net6.0\UR-UC5.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\UserRegistration\UR-UC5\UR-UC5\obj\Debug\net6.0\UR-UC5.AssemblyInfo.cs
+C:\Users\USER\source\BL\UserRegistration\UR-UC5\UR-UC5\obj\Debug\net6.0\UR-UC5.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\UserRegistration\UR-UC5\UR-UC5\obj\Debug\net6.0\UR-UC5.dll
+C:\Users\USER\source\BL\UserRegistration\UR-UC5\UR-UC5\obj\Debug\net6.0\refint\UR-UC5.dll
+C:\Users\USER\source\BL\UserRegistration\UR-UC5\UR-UC5\obj\Debug\net6.0\UR-UC5.pdb
+C:\Users\USER\source\BL\UserRegistration\UR-UC5\UR-UC5\obj\Debug\net6.0\UR-UC5.genruntimeconfig.cache
+C:\Users\USER\source\BL\UserRegistration\UR-UC5\UR-UC5\obj\Debug\net6.0\ref\UR-UC5.dll
